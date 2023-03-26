@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "936760966274",
+    "project_id": "foodpanda-clone-app",
+    "storage_bucket": "foodpanda-clone-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936760966274:android:6f4d27da866819b14dc89b",
+        "android_client_info": {
+          "package_name": "com.muhammadali.ridersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936760966274-pvsdeb00eskt9nkos0di6elnbnbnc4ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXcAbOs-GJdUC2eUgyMSfXvnUCkcfRUQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936760966274-pvsdeb00eskt9nkos0di6elnbnbnc4ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936760966274:android:2b554a3a820454964dc89b",
+        "android_client_info": {
+          "package_name": "com.muhammadali.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936760966274-pvsdeb00eskt9nkos0di6elnbnbnc4ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXcAbOs-GJdUC2eUgyMSfXvnUCkcfRUQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936760966274-pvsdeb00eskt9nkos0di6elnbnbnc4ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936760966274:android:3b30a33cc01740fc4dc89b",
+        "android_client_info": {
+          "package_name": "com.muhammadali.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936760966274-pvsdeb00eskt9nkos0di6elnbnbnc4ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXcAbOs-GJdUC2eUgyMSfXvnUCkcfRUQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936760966274-pvsdeb00eskt9nkos0di6elnbnbnc4ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
