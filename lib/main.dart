@@ -14,15 +14,16 @@ Future<void> main() async
 {
   WidgetsFlutterBinding.ensureInitialized();
 
-  sharedPreferences = await SharedPreferences.getInstance();
   await Firebase.initializeApp(
     options: FirebaseOptions(
-      apiKey: "AIzaSyBcdlAzeLfEYhEhtY1Qqxxvp5UPlM7D8S0",
-      appId: "XXX",
+      apiKey: "AIzaSyDOpFzgUR8Reme6pULPhHpxqvbLiBEyJI4",
+      appId: "1:366591354653:android:499407a4172b617ddb63f4",
       messagingSenderId: "XXX",
-      projectId: "XXX",
+      projectId: "copyusers-8753c",
     ),
   );
+
+
 
 
   runApp(const MyApp());
